@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LM2596_DC-DC.PrjPcb]
+   Generated File[LM2596-Plated.TXT]
+   Generated File[LM2596.LDP]
+   Generated File[LM2596.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:55:50 On 2020-12-20
